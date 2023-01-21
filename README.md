@@ -6,7 +6,7 @@
 
 In Typora APP:
 
-[!typora](https://raw.githubusercontent.com/imyangyong/typora-image-cli/main/typora.png)
+![typora](https://raw.githubusercontent.com/imyangyong/typora-image-cli/main/typora.png)
 
 ## License
 
